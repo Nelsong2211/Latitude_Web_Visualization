@@ -1,0 +1,45 @@
+h1{
+    color:rgb(44, 182, 170);
+    background-color: white;
+}
+h2{
+    color: rgb(44, 182, 170);
+    background-color: white;
+}
+h3{
+    color:  rgb(44, 182, 170);
+}
+#Lbutton{
+    background-color:  rgb(44, 182, 170);
+    border-color:  rgb(44, 182, 170);
+}
+
+body{ 
+    background-color: rgb(207, 196, 196);
+}
+#content{
+    background-color: white;
+}
+
+
+
+
+#navbarDropdownMenuLink .dropdown-item{
+    min-width: 100%; /* Set width of the dropdown */
+    background: #f2f2f2;
+    display: none;
+    position: absolute;
+    z-index: 999;
+    left: 0;
+}
+#navbarDropdownMenuLink{
+    display: block;	/* Display the dropdown */
+}
+#navbarDropdownMenuLink .dropdown-item{
+    display: block;
+}
+
+.figures {
+    height: 250px;
+    width: 250px;
+}
